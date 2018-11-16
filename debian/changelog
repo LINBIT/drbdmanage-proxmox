@@ -1,3 +1,9 @@
+drbdmanage-proxmox (2.2-2) experimental; urgency=medium
+
+  * PM broke the API with libpve-storage-perl 5.0-31, add a dependency
+
+ -- Roland Kammerer <roland.kammerer@linbit.com>  Fri, 16 Nov 2018 10:56:06 +0100
+
 drbdmanage-proxmox (2.2-1) experimental; urgency=medium
 
   * add README.md for github

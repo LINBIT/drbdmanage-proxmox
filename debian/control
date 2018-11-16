@@ -9,6 +9,7 @@ Standards-Version: 3.9.6
 Package: drbdmanage-proxmox
 Architecture: all
 Depends: python-drbdmanage,
+         libpve-storage-perl (<= 5.0-30),
          ${misc:Depends},
 			${perl:Depends}
 Description: DRBD distributed resource management utility
