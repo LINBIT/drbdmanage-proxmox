@@ -1,3 +1,7 @@
+# DEPRECATION
+
+This project is deprecated and superseded by [linstor-proxmox](https://github.com/LINBIT/linstor-proxmox).
+
 # DRBDManage Proxmox Plugin
 The Proxmox Plugin, now developed by [LINBIT](https://www.linbit.com), is a plugin that allows managing
 storage for VMs from the Proxmox GUI via DRBDManage.
